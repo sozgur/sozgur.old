@@ -2,7 +2,7 @@
 layout: post
 title: lspci nedir?
 ---
-lspci pci aygıtlarının dokumunu cıkartır.
+lspci pci aygıtlarının dökümünü cıkartır.
 Varsayılan  cihazların kısa bir listesini gösterir.
  
 lspci sürüm bilgilerini gösterir. 
