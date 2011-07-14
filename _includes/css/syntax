@@ -4,9 +4,9 @@
  * -----------------------------------------------------------------------------
  */
 
-.highlight  { background: #ffffff; }
-.highlight span.c { color: #999988; font-style: italic } /* Comment */
-.highlight span.err { color: #a61717; background-color: #e3d2d2 } /* Error */
+.highlight  { background: #330066; }
+.highlight span.c { color: #330066; font-style: italic } /* Comment */
+.highlight span.err { color: #330066; background-color: #330066} /* Error */
 .highlight span.k { font-weight: bold } /* Keyword */
 .highlight span.o { font-weight: bold } /* Operator */
 .highlight span.cm { color: #999988; font-style: italic } /* Comment.Multiline */
