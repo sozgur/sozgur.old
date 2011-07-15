@@ -15,6 +15,6 @@ lspci -v  ise tüm cihazlar hakkında ayrıntılı bilgileri görüntüler.
 
 lspci komut satırına yazdığımızda
 
-$ lspci
+<code> $ lspci </code> 
 
 çıkan bilgiler  aygıt problemimizi çözmemizde işimizi kolaylaştırır.  
