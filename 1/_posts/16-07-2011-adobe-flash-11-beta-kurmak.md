@@ -7,12 +7,12 @@ Güncellenmeyen 64-bit Flash Player eklentisinin yeni sürümü
 çıkartıldı.
 Bu yeni sürümde geldiği belirtilen özellikler şu şekilde:
 
-*Stage3D APIs
-*64-bit support
-*G.711 audio compression for telephony
-*H.264/AVC SW Encoding
-*Socket Progress Events
-*HD surround sound
+<p>Stage3D APIs</p>
+<p>64-bit support</p>
+<p>G.711 audio compression for telephony</p>
+<p>H.264/AVC SW Encoding</p>
+<p>Socket Progress Events</p>
+<p>HD surround sound</p>
 
 Eklentinin bu sürümünü kurmak için uçbirimi açarız ve sırası ile aşağıdaki komutları yazarız.
 
