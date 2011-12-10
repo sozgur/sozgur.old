@@ -62,11 +62,11 @@ işlemi test edebilmek için bu ActionScript dosyasını bir MovieClip'e bağlı
 				this.addEventListener(MouseEvent.MOUSE_DOWN, basla);
 				this.addEventListener(MouseEvent.MOUSE_DOWN, bitir);
 			}
-			<code>public function basla(event:MouseEvent):void</code>
+			public function basla(event:MouseEvent): void
 			{
 				this.startDrag();
 			}
-			<code>public function biti(event:MouseEvent):void</code>
+			public function biti(event:MouseEvent): void
 			{
 				this.stopDrag();
 			}
