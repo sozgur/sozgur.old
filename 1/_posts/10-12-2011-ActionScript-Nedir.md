@@ -10,13 +10,13 @@ ActionScript programlama dili Flash ve Flex programları ile kullanılmaktadır.
 etkileşimli, sonrasında update edilip geliştirilebilen uygulamalar geliştirmek mümkündür.
 
 ActionScript ile yapılacak bazı işlemlere kısaca göz atacak olursak;
--Fare ya da klavye olaylarına yanıt verilebilir,
- • click event yani fare ile tıklama, tuşa basılması veya dosya yüklemesidir.
--Harici dosyalarla çalışılabilir (Ses, görsel, metin, video),
--Çizim ya da boyama yapılabilir,
--Yapılan uygulamaların yazıcılardan çıktısının alınması sağlanabilir,
--Matematik ya da Fizik hesaplamaları yaptırılabilir,
--Animasyonlar hazırlanabilir.
+<p>-Fare ya da klavye olaylarına yanıt verilebilir,</p>
+<p>• click event yani fare ile tıklama, tuşa basılması veya dosya yüklemesidir.</p>
+<p>-Harici dosyalarla çalışılabilir (Ses, görsel, metin, video),</p>
+<p>-Çizim ya da boyama yapılabilir,</p>
+<p>-Yapılan uygulamaların yazıcılardan çıktısının alınması sağlanabilir,</p>
+<p>-Matematik ya da Fizik hesaplamaları yaptırılabilir,</p>
+<p>-Animasyonlar hazırlanabilir.</p>
 
 ActionScript kullanarak uygulamaları doğrusal olmayan bir şekilde oynatabilir ve uygulamalara
 zaman çizelgesinde temsil edilemeyen ilginç veya karmaşık işlevler eklenilebilir.
@@ -30,7 +30,7 @@ gerçekleştirilmesini sağlayan nesneler oluşturmasına izin veren, yerleşik 
 geniş bir kitaplık içerir.
 
 Örnegin:
-import flash.display.*;
+<p>import flash.display.*;</p>
 
 Eylemler panelini, Komut Dosyası penceresini veya harici bir düzenleyiciyi kullanarak geliştirme
 ortamına ActionScript eklenilebilir.
@@ -62,11 +62,11 @@ işlemi test edebilmek için bu ActionScript dosyasını bir MovieClip'e bağlı
 				this.addEventListener(MouseEvent.MOUSE_DOWN, basla);
 				this.addEventListener(MouseEvent.MOUSE_DOWN, bitir);
 			}
-			public function basla(event:MouseEvent):void
+			<code>public function basla(event:MouseEvent):void</code>
 			{
 				this.startDrag();
 			}
-			public function biti(event:MouseEvent):void
+			<code>public function biti(event:MouseEvent):void</code>
 			{
 				this.stopDrag();
 			}
@@ -74,17 +74,17 @@ işlemi test edebilmek için bu ActionScript dosyasını bir MovieClip'e bağlı
 	}
 
 
-Package: içerisinde classları tutar packace paketAdı.
-{
-classlarla ilgili kodlar burya gelecek
-{
+<p>Package: içerisinde classları tutar packace paketAdı.</p>
+<p>{</p>
+<p>classlarla ilgili kodlar burya gelecek</p>
+<p>{</p>
 
 örn:
 
-Packace Canlılar
-{
-puplic class Papatya
-{
+<p>Packace Canlılar</p>
+<p>{</p>
+<p>puplic class Papatya</p>
+<p>{</p>
 
 ActionScript ve JavaScript, köklerini ECMAScript kodlama dilinin uluslararası standardı olan
 ECMA-262 standardından alırlar.
@@ -134,12 +134,12 @@ tasarımcı bu modu kullanmaktadır.
 	}
 	liste("4-Çay");
 
-kodun output ekranındaki çıktısı:
-Alınacaklar listesi
-1-Deterjan
-2-Peyneri
-3-Süt
-4-Çay
+kodun output ekranındaki çıktısı:</p>
+<p>Alınacaklar listesi</p>
+<p>1-Deterjan</p>
+<p>2-Peyneri</p>
+<p>3-Süt</p>
+<p>4-Çay</p>
 
 - Davranışlar kodu kendiniz yazmadan dosyanıza eklemenizi sağlar. Davranışlar ortak görevler
 için önceden yazılmış komut dosyalarıdır. Bir davranış ekleyebilir ve sonra onu Davranışlar
@@ -181,14 +181,14 @@ kullanacağınızı bilmeniz gerekir. ActionScript hakkında bilgi edinmek için
 ActionScript 2.0'ı Öğrenme ve ActionScript 3.0'ı Programlama.
 
 
-• Değişkeni tanımlamk için "var",
+<p>• Değişkeni tanımlamk için "var",</p>
 
-• Değer atamak için de “=” operatörü kullanılır.
-var ifade:String="merhaba";
+<p>• Değer atamak için de “=” operatörü kullanılır.</p>
+<p>var ifade:String="merhaba";</p>
 
-•Değişkene değer atama işlemi değişkeni tanımladıktan sonrada gerçekleştirilir.
-var ifade:String;
-ifade="Merhaba";
+<p>•Değişkene değer atama işlemi değişkeni tanımladıktan sonrada gerçekleştirilir.</p>
+<p>var ifade:String;</p>
+<p>ifade="Merhaba";</p>
 
 Örnek:1
 	// listedeki elmanları for döngüsü ile yazma
@@ -202,10 +202,10 @@ ifade="Merhaba";
 		trace(liste[i]);
 	}
 
-output ekran çıktısı:
-un
-su
-meyve suyu
+<p>output ekran çıktısı:</p>
+<p>un</p>
+<p>su</p>
+<p>meyve suyu</p>
 
 Örnek:2
 
@@ -219,8 +219,8 @@ meyve suyu
 	}
 	trace("Toplam Fiyatı:"+fiyatHesapla());
 
-output ekran çıktısı:
-Toplam Fiyatı:11.7
+<p>output ekran çıktısı:</p>
+<p>Toplam Fiyatı:11.7</p>
 
 
 
