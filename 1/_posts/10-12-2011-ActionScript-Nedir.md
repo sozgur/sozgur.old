@@ -134,7 +134,7 @@ tasarımcı bu modu kullanmaktadır.
 	}
 	liste("4-Çay");
 
-kodun output ekranındaki çıktısı:</p>
+<p>kodun output ekranındaki çıktısı:</p>
 <p>Alınacaklar listesi</p>
 <p>1-Deterjan</p>
 <p>2-Peyneri</p>
@@ -191,6 +191,7 @@ ActionScript 2.0'ı Öğrenme ve ActionScript 3.0'ı Programlama.
 <p>ifade="Merhaba";</p>
 
 Örnek:1
+
 	// listedeki elmanları for döngüsü ile yazma
 	stop();
 	var liste:Array=new Array();
