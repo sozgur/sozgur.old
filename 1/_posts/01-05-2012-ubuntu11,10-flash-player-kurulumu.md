@@ -9,16 +9,16 @@ Bu sorunu çözmek için Mozilla Firefox da bir eklenti kurmanız yeterli oluyor
 <b>Adım 1:</b>
 Mozilla Firefox ‘u açın ve şu adrese gidin
 
-<a href = https://addons.mozilla.org/en-US/firefox/addon/flash-aid/> https://addons.mozilla.org/en-US/firefox/addon/flash-aid/ </a>
+<a href = "https://addons.mozilla.org/en-US/firefox/addon/flash-aid/"> https://addons.mozilla.org/en-US/firefox/addon/flash-aid/ </a>
 
 <code> +Add to Firefox </code>
 Butonuna basın eklentiyi kurun. Eklentiyi kurduktan sonra,
 
 <b>Adım 2:</b>
-Mozilla Firefox ‘u yeniden başlatın (kapatıp açın). Devamında sağ tarafta Flash simgesi göreceksiniz. Bu simgeyi tıklayın, Flash-Aid Wizard çalışacaktır. Burada “Adobe Beta – Adobe Labs” gibi bir ifade var o seçili olsun ve kurulumu onaylayın.
+Mozilla Firefox'u yeniden başlatın (kapatıp açın). Devamında sağ tarafta Flash simgesi göreceksiniz. Bu simgeyi tıklayın, Flash-Aid Wizard çalışacaktır. Burada "Adobe Beta – Adobe Labs" gibi bir ifade var o seçili olsun ve kurulumu onaylayın.
 
 <b>Adım 3:</b>
-Mozilla Firefox ‘u yeniden başalatın (kapatıp açın). Artık Video izleyebilirsiniz :)
+Mozilla Firefox'uu yeniden başalatın (kapatıp açın). Artık video izleyebilirsiniz :)
 
 <b>Adım 5:</b>
 Chrome için farklı bir şey yapmanıza gerek yok. Tarayıcınızı kapatıp açın oda çalışacaktır.
