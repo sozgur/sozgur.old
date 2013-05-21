@@ -13,7 +13,7 @@ Server Locations ayarlarını değiştirmek için önce Server'ımızın üzerin
 sağ tıklayarak <b>Add and Remove</b>'e tıklıyoruz ve çıkan pencereden WepApp lerimizi
 seçerek <b>Remove All</b> butonuna tıklayarak siliyoruz.
 
-<img src=/images/2.png" />
+<img src="/images/2.png" />
 
 Bu işlemi yaptıktan sonra WepApp lerimiz Configured sütunundan Available sutununa geçecektir.
 Daha sonra Server Locations ayarlarımızı değiştirebiliriz. 
